@@ -1,5 +1,4 @@
 ### 图片接口
-
 PHP Sqlite 版
 调用地址:http://xxx.com/acgurl.php 调用参数:type = json / img
 
