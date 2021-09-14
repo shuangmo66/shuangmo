@@ -18,6 +18,6 @@ $server = rand(1,4);
 if(!in_array($size, $size_arr)){
 	$size = 'large';
 }
-$url = 'https://tva'.$server.'.sinaimg.cn/'.$size.'/'.$result.'.jpg';
+$imgurl = 'https://tva'.$server.'.sinaimg.cn/'.$size.'/'.$result.'.jpg';
 header("Location:".$url);
 ?>
