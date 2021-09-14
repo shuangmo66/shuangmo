@@ -1,6 +1,6 @@
 <?php
 // 存储数据的文件
-$filename = 'test.txt';
+$filename = 'sinetxt.txt';
 if(!file_exists($filename)) {
     die($filename . ' 数据文件不存在');
 }
